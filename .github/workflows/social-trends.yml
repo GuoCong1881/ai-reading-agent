@@ -43,6 +43,7 @@ jobs:
           # Pro / Max 订阅用户用 OAuth token(本地运行 `claude setup-token` 生成),
           # 不要用 anthropic_api_key,否则会走单独计费而不是订阅额度
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          show_full_output: true   # TEMP: 排查认证问题用,确认后会删掉
           claude_args: |
             --max-turns 30
             --allowedTools "Read,Write,Edit,WebSearch,Bash(mkdir:*),Bash(git add:*),Bash(git commit:*),Bash(git config:*),Bash(git pull:*),Bash(git push:*),Bash(gh issue create:*),Bash(gh label list:*),Bash(gh label create:*),Bash(python3 scripts/create_calendar_event.py:*)"
