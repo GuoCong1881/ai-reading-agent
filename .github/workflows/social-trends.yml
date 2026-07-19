@@ -34,6 +34,12 @@ jobs:
       - name: Install calendar sync dependencies
         run: pip install --quiet google-auth requests
 
+      - name: TEMP verify calendar script now that API is enabled
+        env:
+          GOOGLE_SERVICE_ACCOUNT_KEY: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }}
+          GOOGLE_CALENDAR_ID: ${{ secrets.GOOGLE_CALENDAR_ID }}
+        run: python3 scripts/create_calendar_event.py "调试测试事件-可以删除" "$(date -u +%F)" "debug run, verifying calendar sync after enabling API"
+
       - name: Run Claude Code
         uses: anthropics/claude-code-action@v1
         env:
