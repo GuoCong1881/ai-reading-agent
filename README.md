@@ -36,15 +36,38 @@
    仓库页面 → Settings → Actions → General → 拉到 "Workflow permissions" → 选择 **Read and write permissions** → Save。
    （两个 workflow 文件里已经声明了 `contents: write` 和 `issues: write`,但仓库总开关也要打开,否则会被拦下来。）
 
-6. **(可选)配置 Google Calendar 自动同步**:每天生成的 Issue 会额外同步成一条全天日历事件。如果不需要这个功能,跳过这一步即可——脚本检测不到对应 Secret 会自动跳过,不影响 Issue 正常生成。
-   1. 去 [Google Cloud Console](https://console.cloud.google.com/) 建一个新项目(或用现有的),启用 **Google Calendar API**。
-   2. 左侧菜单 IAM 与管理 → 服务账号 → 创建服务账号 → 创建完成后进入该账号 → "密钥" 标签页 → 添加密钥 → JSON,下载生成的 JSON 文件。
-   3. 打开你自己的 Google Calendar 网页版 → 设置 → 左侧选中要同步的日历 → "与特定人员共享" → 把服务账号的邮箱(JSON 文件里的 `client_email` 字段,形如 `xxx@xxx.iam.gserviceaccount.com`)添加进去,权限选 **"对活动进行更改"**。
-   4. 在同一个日历的设置页面里找到 "Calendar ID"(个人主日历通常就是你的 Gmail 地址;如果是新建的次级日历,会是类似 `xxxx@group.calendar.google.com` 的字符串)。
-   5. 仓库 → Settings → Secrets and variables → Actions,新增两个 Secret:
-      - `GOOGLE_SERVICE_ACCOUNT_KEY`:粘贴整个 JSON 文件的内容
-      - `GOOGLE_CALENDAR_ID`:粘贴上一步拿到的 Calendar ID
-   6. 完成后,每天的 Issue 都会额外在这个日历上生成一条全天事件,标题和 Issue 一致,描述里带 Issue 链接。
+6. **(可选)配置 Google Calendar 自动同步**:每天生成的 Issue 会额外同步成一条全天日历事件。如果不需要这个功能,跳过这一步即可——脚本检测不到对应 Secret 会自动跳过,不影响 Issue 正常生成。下面按你英文界面上实际会看到的按钮名字写。
+
+   **A. 在 Google Cloud Console 建服务账号**(全程在 [console.cloud.google.com](https://console.cloud.google.com/))
+
+   1. 顶部有个项目选择器(项目名 + 下拉箭头),没有项目的话先点它 → **New Project** 建一个,名字随便起。
+   2. 顶部搜索框(放大镜图标)输入 `Google Calendar API` → 点搜索结果里的 "Google Calendar API" → 进详情页后点蓝色的 **Enable** 按钮。
+   3. 左上角三条杠菜单(≡)→ **IAM & Admin → Service Accounts**。
+   4. 页面顶部点 **+ CREATE SERVICE ACCOUNT**。
+   5. 第1步(Service account details)随便填个名字,比如 `ai-reading-calendar` → 点 **CREATE AND CONTINUE**。
+   6. 第2步(Grant this service account access to project)不用选任何角色,直接点 **CONTINUE**。
+   7. 第3步(Grant users access)也不用填,直接点 **DONE**。
+   8. 回到 Service Accounts 列表,点你刚建的这个账号(邮箱形如 `xxx@你的项目ID.iam.gserviceaccount.com`)→ **把这个邮箱地址复制下来,后面要用**。
+   9. 进入账号详情页后,点顶部的 **KEYS** 标签页 → **ADD KEY → Create new key** → 弹窗里选 **JSON** → 点 **CREATE**。浏览器会自动下载一个 `.json` 文件,存好待用(这个文件只会在这一次下载,关掉弹窗就拿不回来了,如果没存到就得重新生成一次密钥)。
+
+   **B. 在 Google Calendar 把日历共享给这个服务账号**(在 [calendar.google.com](https://calendar.google.com/))
+
+   1. 页面左侧 "My calendars" 列表里,鼠标悬停在你想同步的那个日历上(用默认主日历的话就是你自己的名字那一项)→ 出现三个点(⋮)→ 点它 → **Settings and sharing**。
+      (也可以走:右上角齿轮图标 → **Settings** → 左侧 "Settings for my calendars" 列表里点同一个日历名字,效果一样。)
+   2. 进入该日历的设置页后往下滚,找到 **"Share with specific people or groups"** 这个区块 → 点 **+ Add people and groups**。
+   3. 输入框里粘贴上面复制的服务账号邮箱地址。
+   4. 右侧权限下拉框(默认是 "See only free/busy") → 改选 **"Make changes to events"**(这一步很关键,选低了会导致创建事件时报权限错误)。
+   5. 点 **Send**。服务账号没有真实邮箱收信,这一步不会真的发邮件出去,只是用来触发授权,正常。
+
+   **C. 拿到 Calendar ID,存成 GitHub Secret**
+
+   1. 还在同一个日历设置页面,继续往下滚,找到 **"Integrate calendar"** 区块,里面的 **"Calendar ID"** 那一行就是你需要的值——点它旁边的复制图标就行。如果同步的是默认主日历,这个 ID 通常就是你的 Gmail 地址本身;如果是新建的次级日历,会是类似 `xxxxxxxx@group.calendar.google.com` 的一串字符。
+   2. 回到 GitHub 仓库页面 → **Settings → Secrets and variables → Actions → New repository secret**,新增两个:
+      - `GOOGLE_SERVICE_ACCOUNT_KEY`:用文本编辑器(不要用 Word 这类会自动加格式的软件)打开 A.9 下载的 `.json` 文件,把**完整内容**(包括最外层的花括号 `{ }`)全部粘进 Value 框
+      - `GOOGLE_CALENDAR_ID`:粘贴 C.1 拿到的 Calendar ID
+   3. 两个 Secret 都存好后,下次 workflow 跑的时候日历事件就会自动创建。想立刻验证的话,去仓库 Actions 页手动 Run workflow 一次,跑完去 Google Calendar 上看有没有多一条今天的全天事件。
+
+   6. 完成后,每天的 Issue 都会额外在这个日历上生成一条全天事件,标题和 Issue 一致,描述里带 Issue 链接。如果配好了还是没同步成功,去对应 workflow 运行日志里搜 "日历事件创建失败",错误信息里通常会写清楚是权限不对还是 ID 不对。
 
 ## 二、检查/调整时间
 
