@@ -18,23 +18,25 @@
    README.md
    ```
 
-2. **生成 Claude Code 的订阅授权 token**(用你的 Claude Pro 账号,不额外计费,走非交互式月度额度):
+2. **安装 Claude Code GitHub App**:去 [https://github.com/apps/claude](https://github.com/apps/claude) 点 Install/Configure,授权范围选 "Only select repositories",勾选你刚建的这个仓库。这一步是走 GitHub 的 OAuth 授权确认,必须在浏览器里手动点,没装的话 workflow 会在 "Run Claude Code" 这一步直接报错 `Claude Code is not installed on this repository`。
+
+3. **生成 Claude Code 的订阅授权 token**(用你的 Claude Pro 账号,不额外计费,走非交互式月度额度):
    在你本地电脑装好 [Claude Code](https://code.claude.com) 后,终端运行:
    ```
    claude setup-token
    ```
    会打开浏览器走一遍 OAuth 登录确认,完成后终端会打印一个长字符串 token,**只显示一次,记得复制**。
 
-3. **把 token 存成仓库 Secret**:
+4. **把 token 存成仓库 Secret**:
    仓库页面 → Settings → Secrets and variables → Actions → New repository secret
    - Name: `CLAUDE_CODE_OAUTH_TOKEN`
    - Value: 粘贴上一步拿到的 token
 
-4. **给 Actions 开权限**(让它能创建 Issue、提交代码):
+5. **给 Actions 开权限**(让它能创建 Issue、提交代码):
    仓库页面 → Settings → Actions → General → 拉到 "Workflow permissions" → 选择 **Read and write permissions** → Save。
    （两个 workflow 文件里已经声明了 `contents: write` 和 `issues: write`,但仓库总开关也要打开,否则会被拦下来。）
 
-5. **(可选)配置 Google Calendar 自动同步**:每天生成的 Issue 会额外同步成一条全天日历事件。如果不需要这个功能,跳过这一步即可——脚本检测不到对应 Secret 会自动跳过,不影响 Issue 正常生成。
+6. **(可选)配置 Google Calendar 自动同步**:每天生成的 Issue 会额外同步成一条全天日历事件。如果不需要这个功能,跳过这一步即可——脚本检测不到对应 Secret 会自动跳过,不影响 Issue 正常生成。
    1. 去 [Google Cloud Console](https://console.cloud.google.com/) 建一个新项目(或用现有的),启用 **Google Calendar API**。
    2. 左侧菜单 IAM 与管理 → 服务账号 → 创建服务账号 → 创建完成后进入该账号 → "密钥" 标签页 → 添加密钥 → JSON,下载生成的 JSON 文件。
    3. 打开你自己的 Google Calendar 网页版 → 设置 → 左侧选中要同步的日历 → "与特定人员共享" → 把服务账号的邮箱(JSON 文件里的 `client_email` 字段,形如 `xxx@xxx.iam.gserviceaccount.com`)添加进去,权限选 **"对活动进行更改"**。
