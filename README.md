@@ -41,7 +41,7 @@
    **A. 在 Google Cloud Console 建服务账号**(全程在 [console.cloud.google.com](https://console.cloud.google.com/))
 
    1. 顶部有个项目选择器(项目名 + 下拉箭头),没有项目的话先点它 → **New Project** 建一个,名字随便起。
-   2. 顶部搜索框(放大镜图标)输入 `Google Calendar API` → 点搜索结果里的 "Google Calendar API" → 进详情页后点蓝色的 **Enable** 按钮。
+   2. 顶部搜索框(放大镜图标)输入 `Google Calendar API` → 点搜索结果里的 "Google Calendar API" → 进详情页后点蓝色的 **Enable** 按钮。**这一步很容易漏——光搜到详情页不算数,必须真的点了 Enable 且按钮变成 "Manage"。** 如果后面同步失败报 `Google Calendar API has not been used in project ... or it is disabled`,就是这一步没做或者做在了别的项目上;确认方法:左上角三条杠菜单 → **APIs & Services → Enabled APIs & services**,列表里应该能看到 "Google Calendar API"。
    3. 左上角三条杠菜单(≡)→ **IAM & Admin → Service Accounts**。
    4. 页面顶部点 **+ CREATE SERVICE ACCOUNT**。
    5. 第1步(Service account details)随便填个名字,比如 `ai-reading-calendar` → 点 **CREATE AND CONTINUE**。
