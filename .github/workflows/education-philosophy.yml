@@ -17,6 +17,7 @@ concurrency:
 permissions:
   contents: write
   issues: write
+  id-token: write    # claude-code-action 换取 OIDC token 需要
 
 jobs:
   generate:

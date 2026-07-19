@@ -19,6 +19,7 @@ concurrency:
 permissions:
   contents: write   # 允许 Claude 提交并推送 state 文件的更新
   issues: write      # 允许 Claude 创建 GitHub Issue 作为今天的阅读材料
+  id-token: write    # claude-code-action 换取 OIDC token 需要
 
 jobs:
   generate:
