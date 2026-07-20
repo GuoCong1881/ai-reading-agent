@@ -4,4 +4,5 @@
 
 - 2026-07-19 劳动力市场两极化理论(Job Polarization / Routine-Biased Technological Change)
 - 2026-07-19 熊彼特"创造性破坏"(Schumpeter's Creative Destruction)
+- 2026-07-20 库兹涅茨曲线(Kuznets Curve)
 
