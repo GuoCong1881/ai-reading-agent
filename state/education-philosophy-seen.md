@@ -9,3 +9,4 @@
 - 2026-07-19 | Sal Khan接受Chalkbeat采访,承认AI辅导产品Khanmigo对多数学生是"a non-event" | Chalkbeat | 杜威经验主义教育
 - 2026-07-20 | Purdue大学学者提出"无发展区"(Zone of No Development)概念,论文发表于arXiv | arxiv.org (dos Santos, Birdwell) | 维果茨基最近发展区
 - 2026-07-20 | NYC教育局(全美最大学区)因AI政策争议暂停所有新教育科技软件采购,等待未定稿的最终AI指南 | Chalkbeat / Gothamist | 无
+- 2026-07-20 | PwC《2026 Global AI Jobs Barometer》:AI冲击最大的入门岗位要求资深技能的概率是普通入门岗位的7倍,"资深化"入门岗位增长35%而普通入门岗位萎缩10% | PwC(与纽约联储Liberty Street Economics研究形成方法论对立) | Lave & Wenger 合法边缘性参与(Legitimate Peripheral Participation) | AI是否正在拆除新手通往专家的阶梯? / 什么能力无法或不应完全外包给AI? | Labour Market Skill Shift(新增)
