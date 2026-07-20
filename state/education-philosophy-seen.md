@@ -7,3 +7,4 @@
 - 2026-07-19 | OECD《Digital Education Outlook 2026》报告:AI辅助任务成功率+48%,但移除AI后表现-17%("虚假的精熟") | OECD | 杜威经验主义教育
 - 2026-07-19 | Sal Khan接受Chalkbeat采访,承认AI辅导产品Khanmigo对多数学生是"a non-event" | Chalkbeat | 杜威经验主义教育
 - 2026-07-20 | Purdue大学学者提出"无发展区"(Zone of No Development)概念,论文发表于arXiv | arxiv.org (dos Santos, Birdwell) | 维果茨基最近发展区
+- 2026-07-20 | NYC教育局(全美最大学区)因AI政策争议暂停所有新教育科技软件采购,等待未定稿的最终AI指南 | Chalkbeat / Gothamist | 无
