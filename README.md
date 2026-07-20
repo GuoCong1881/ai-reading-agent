@@ -1,11 +1,20 @@
-# AI 时代阅读助手(社会趋势 + 教育哲学)
+# AI 时代阅读助手(社会趋势 + 人类学习观察站)
 
-每天自动生成两篇材料,发到本仓库的 GitHub Issue 里。每篇材料以**一条最近真实发生的新闻/研究/政策/产品动作**为切入点,深度拆解它的证据、方法、数据和结论,经典理论只在真正有解释力时作为"透镜"引入,不是每天必须讲的主线:
+每天自动生成两篇材料,发到本仓库的 GitHub Issue 里。每篇材料以**一条最近真实发生的新闻/研究/政策/产品动作**为切入点,深度拆解它的证据、方法、数据和结论,经典理论只在真正有解释力时作为"透镜"引入,不是每天必须讲的主线。
 
 - **社会趋势**(`social-trends.yml`):AI时代社会/经济结构变化相关的新闻深度拆解 + (如适用)理论透镜 + 当下有分歧的真实观点 + 对你个人决策的启发
-- **教育哲学**(`education-philosophy.yml`):AI时代教育实践/政策/研究相关的新闻深度拆解 + (如适用)理论透镜 + 当下有分歧的真实观点 + 如果你要教书意味着什么
+- **AI时代人类学习观察站**(`education-philosophy.yml`):一个长期运行的 Research Agent / Intellectual Observatory。它不是教育新闻 Agent,也不是论文摘要 Agent;每天的新闻只是观察窗口,真正要持续回答的是: **AI时代,人类应该学习什么?教育应该培养什么样的人?AI在其中承担什么角色?**
 
-两个方向各自维护一份"已深度讲过的新闻/事件"清单(`state/` 目录),自动去重,不会用不同包装重复讲同一条新闻。
+教育/学习观察站的搜索范围已经扩大到教育、AI、认知科学、心理学、学习科学、劳动经济学、社会学、政治经济学、政府政策、高等教育、Future of Work、AI产品、机器人、HCI 等。OpenAI 发布 Agent、WEF 发布 Future of Jobs、Anthropic 的 alignment 研究、新的 AI Literacy 政策、新的学习科学论文,都可能成为合格的每日切入点,只要它能帮助理解"人未来应该学习什么"。
+
+系统维护的不只是日报:
+
+- `state/education-philosophy-seen.md`:已深度讲过的事件,用于去重。
+- `state/education-philosophy-signals.md`:长期趋势层,记录哪些 Signal 正在增强、减弱或制度化。
+- `state/questions.md`:长期问题库,维护开放问题、矛盾证据、反例、定义变化和研究缺口。
+- `state/social-trends-seen.md`:社会趋势方向已深度讲过的事件。
+
+长期下来,教育/学习观察站希望积累的不是 365 篇孤立日报,而是几十个越来越成熟的问题、一组持续校准的趋势信号,以及一套不断演化的个人教育哲学。
 
 ## 一、准备工作
 
@@ -15,6 +24,8 @@
    .github/workflows/education-philosophy.yml
    state/social-trends-seen.md
    state/education-philosophy-seen.md
+   state/education-philosophy-signals.md
+   state/questions.md
    README.md
    ```
 
@@ -96,10 +107,10 @@
 
 ## 四、平时怎么看
 
-- 每天材料会变成一条新的 Issue,标题类似 `社会趋势 · 2026-07-20 · OECD最新报告:AI暴露度最高行业招聘不降反升`。
+- 每天材料会变成一条新的 Issue,标题类似 `社会趋势 · 2026-07-20 · OECD最新报告:AI暴露度最高行业招聘不降反升` 或 `学习观察站 · 2026-07-20 · 英国推进中小学AI Literacy课程`。
 - 建议在仓库页面右上角点 **Watch → All Activity**,这样每次新 Issue 会推邮件通知,配合 GitHub 手机 App 也能收到手机推送,人不在电脑边也能看到。
 - 如果配置了 Google Calendar 同步,同一天还会在你指定的日历上多一条全天事件,点进去能看到 Issue 链接。
-- 两个 `state/*.md` 文件是给 Claude 自己看的"已深度讲过的新闻/事件"记录,你一般不用管;如果想让某条新闻被重新深挖一次,手动删掉那一行就行。
+- `state/*.md` 文件是给 Claude 自己看的长期记忆。`*-seen.md` 用于避免重复讲同一事件;`education-philosophy-signals.md` 和 `questions.md` 用于维护长期趋势与开放问题。你一般不用管;如果想让某条新闻被重新深挖一次,手动删掉对应 seen 文件里的那一行就行。
 
 ## 五、以后想加什么
 
@@ -107,3 +118,4 @@
 
 - 想要更长的历史存档:Issue 本身就是永久记录,搜索关键词就能翻出以前讲过的新闻/事件。
 - 想调整讨论深度、切入角度:直接改对应 `prompt:` 字段里的文字描述就行,不需要动其他部分。
+- 想调整长期研究方向:编辑 `state/questions.md` 里的核心问题,或在 `state/education-philosophy-signals.md` 里增加/合并 Signal。
