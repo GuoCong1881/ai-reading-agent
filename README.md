@@ -73,10 +73,12 @@
 
 工作流里的 `cron` 是 **UTC 时间**,已经按你在柏林(欧洲中部时间)的假设换算好了:
 
-- 社会趋势:`cron: "0 5 * * *"` → 柏林夏令时(CEST, UTC+2)早上 7:00
-- 教育哲学:`cron: "20 5 * * *"` → 柏林夏令时(CEST, UTC+2)早上 7:20
+- 社会趋势:`cron: "9 5 * * *"` → 柏林夏令时(CEST, UTC+2)早上 7:09
+- 教育哲学:`cron: "41 5 * * *"` → 柏林夏令时(CEST, UTC+2)早上 7:41
 
-柏林每年 3 月最后一个周日到 10 月最后一个周日用夏令时(CEST, UTC+2),其余时间是冬令时(CET, UTC+1)。GitHub Actions 的 cron 本身不会跟着夏令时切换,所以每年 10 月底切回冬令时后,实际触发时间会变成柏林时间早上 8:00 / 8:20;如果介意这 1 小时偏差,到时候把两处 `cron` 分别改成 `"0 6 * * *"` 和 `"20 6 * * *"`,等次年 3 月底切回夏令时再改回 `5`。
+分钟数特意没设成整点或整5分钟——[GitHub 官方文档](https://docs.github.com/en/actions/writing-workflows/choosing-when-your-workflow-runs/events-that-trigger-workflows#schedule)写明 "The schedule event can be delayed during periods of high loads of GitHub Actions workflow runs. High load times include the start of every hour",并建议 "schedule your workflow to run at a different time of the hour" 来避开排队。错开几分钟能大幅降低被明显延迟的概率,但 GitHub 不保证 schedule 触发绝对准时,极端情况下还是可能晚个几分钟到十几分钟,这是平台本身的限制,配置上无法完全消除。
+
+柏林每年 3 月最后一个周日到 10 月最后一个周日用夏令时(CEST, UTC+2),其余时间是冬令时(CET, UTC+1)。GitHub Actions 的 cron 本身不会跟着夏令时切换,所以每年 10 月底切回冬令时后,实际触发时间会变成柏林时间早上 8:09 / 8:41;如果介意这 1 小时偏差,到时候把两处 `cron` 分别改成 `"9 6 * * *"` 和 `"41 6 * * *"`,等次年 3 月底切回夏令时再改回 `5`。
 
 如果你不在柏林,换算方式是:`UTC小时 = 你想要的本地时间 - 你的UTC偏移`。改完记得保存后重新推送。
 
