@@ -1,7 +1,9 @@
-# 已经讲过的经典理论(教育哲学)
+# 已经深度讲过的新闻/事件(教育哲学)
 
-> 每次运行会自动往下追加一行,格式:`- YYYY-MM-DD 理论名称`。不要手动删除历史记录,除非你想让某个理论被重新讲一次。
+> 每次运行会自动往下追加一行,格式:`- YYYY-MM-DD | 新闻/事件一句话概括 | 主要来源 | 涉及理论(没有写"无")`。
+> 这份清单用来避免用不同包装重复讲同一条新闻/研究/声明,也帮助判断最近有没有连续靠同一两个热门理论撑场面。
+> 不要手动删除历史记录,除非你想让某条新闻/理论组合被重新讲一次。
 
-- 2026-07-19 杜威经验主义教育(Dewey's Experientialism / Learning by Doing)
-- 2026-07-20 维果茨基最近发展区(Vygotsky's Zone of Proximal Development)
-
+- 2026-07-19 | OECD《Digital Education Outlook 2026》报告:AI辅助任务成功率+48%,但移除AI后表现-17%("虚假的精熟") | OECD | 杜威经验主义教育
+- 2026-07-19 | Sal Khan接受Chalkbeat采访,承认AI辅导产品Khanmigo对多数学生是"a non-event" | Chalkbeat | 杜威经验主义教育
+- 2026-07-20 | Purdue大学学者提出"无发展区"(Zone of No Development)概念,论文发表于arXiv | arxiv.org (dos Santos, Birdwell) | 维果茨基最近发展区
