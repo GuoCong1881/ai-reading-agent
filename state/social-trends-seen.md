@@ -10,3 +10,4 @@
 - 2026-07-21 | 彭博社综合BLS/JOLTS/Census数据:美国金融与信息行业月均减少2.8万岗位,AI冲击主要体现为招聘放缓而非裁员潮 | Bloomberg News (BLS/JOLTS/Census数据) | Narrative Economics(叙事经济学,Robert Shiller)
 - 2026-07-23 | 联合国IISPAI首份《初步报告》警告AI加剧全球不平等(美中占顶级算力90%),被批未证明自身独立性 | UN IISPAI / TechPolicy.Press(Umeå大学AI Policy Lab批评) | 监管俘获理论(Regulatory Capture, Stigler)
 - 2026-07-24 | FT/路透社:中国商务部磋商收紧AI模型权重下载与芯片设计出口管制,涉及Manus收购被强制撤销先例 | Financial Times / Reuters(经观察者网、CFM闪存市场等转载) | 武器化的相互依赖(Weaponized Interdependence, Farrell & Newman)
+- 2026-07-25 | 美国众议院能源商务委员会52-0通过《Ratepayer Protection Act》(H.R. 9340),要求数据中心自行承担电网接入成本;PJM容量拍卖价格涨9倍、Monitoring Analytics与EPRI对数据中心是否推高电价结论相反、Data Center Watch报告75个项目/$130亿遭地方抵制叫停 | Utility Dive / The Hill / PolitiFact / Data Center Watch / EPRI | Mancur Olson集体行动的逻辑(Logic of Collective Action)
