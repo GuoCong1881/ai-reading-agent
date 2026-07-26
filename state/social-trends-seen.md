@@ -11,3 +11,4 @@
 - 2026-07-23 | 联合国IISPAI首份《初步报告》警告AI加剧全球不平等(美中占顶级算力90%),被批未证明自身独立性 | UN IISPAI / TechPolicy.Press(Umeå大学AI Policy Lab批评) | 监管俘获理论(Regulatory Capture, Stigler)
 - 2026-07-24 | FT/路透社:中国商务部磋商收紧AI模型权重下载与芯片设计出口管制,涉及Manus收购被强制撤销先例 | Financial Times / Reuters(经观察者网、CFM闪存市场等转载) | 武器化的相互依赖(Weaponized Interdependence, Farrell & Newman)
 - 2026-07-25 | 美国众议院能源商务委员会52-0通过《Ratepayer Protection Act》(H.R. 9340),要求数据中心自行承担电网接入成本;PJM容量拍卖价格涨9倍、Monitoring Analytics与EPRI对数据中心是否推高电价结论相反、Data Center Watch报告75个项目/$130亿遭地方抵制叫停 | Utility Dive / The Hill / PolitiFact / Data Center Watch / EPRI | Mancur Olson集体行动的逻辑(Logic of Collective Action)
+- 2026-07-26 | BIS《2026年度经济报告》用运河/铁路/电气化/互联网四轮历史泡沫类比警告AI资本开支热潮与循环融资风险堪比2008年危机;7月22-24日Alphabet上调capex指引与特斯拉负自由现金流引发Magnificent 7单日蒸发约7670亿美元,印证警告;Jamie Dimon公开背书万亿美元AI投资 | BIS Annual Economic Report 2026 / Bloomberg / CNBC / Yahoo Finance / Axios | 明斯基金融不稳定假说(Financial Instability Hypothesis)/ Kindleberger躁狂-恐慌-崩溃模型
