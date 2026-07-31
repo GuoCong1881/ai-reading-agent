@@ -17,11 +17,11 @@
 - 最近证据: 2026-07-29 | OECD与欧盟委员会联合发布《Empowering Learners for the Age of AI》(AILit Framework,2026-06-17/18发布/展示,历时约一年、100+国家2000+人咨询):4 domain(Engage/Create/Manage/Shape AI)、19项competence(每项含Knowledge/Skills/Attitudes)、3级学习者progression;直接绑定PISA 2029 MAIL评估与欧盟AI Act第4条(该条2025-02-02已适用,执法监督2026-08-02启动);但框架本身对成员国/学校采纳是自愿性质,文本自陈"证据仍混杂""仍需更多研究" | OECD / European Commission / AILit Framework官网 / Digital Watch Observatory
 - 观察备注: 星级从四星上调至满星——理由是这次证据首次把这个信号从"定义权仍在被不同治理主体各自抢占、尚未收敛"(如07-26美国国会两党两案定义互不相同)推进到"出现了具有跨国官方地位、且被绑定全球标准化测试(PISA)和现行硬法律(欧盟AI Act)的操作化定义",制度化程度明显跃升,足以对齐Assessment Reform/Cognitive Offloading已有的满星标准。但需注意这次上调的是"定义的制度重量",不是"定义的实证效度"——框架本身承认缺乏效果验证,且采纳是自愿的,和真正强制的AI Act义务之间仍有一层没有焊死的落差(独立顾问Basil Puglisi批评框架"把每一步都变成了可选项")。下一步看2026-08-02欧盟AI Act第4条执法启动后监管者是否真的引用这19项competence作为合规标尺;追踪PISA 2029 MAIL具体命题方式;并持续和美国联邦/州级、加州CDE操作化方式做对照。
 
-## Teacher AI Adoption ★★★★☆
+## Teacher AI Adoption ★★★★★
 - 含义: 教师将AI用于备课、反馈、个性化支持、行政减负或课堂互动,并逐渐改变教师角色。
-- 近两个月出现次数: 2(2026-07-25 Anthropic Claude for Teachers发布+试点计划;2026-07-27 DEC全球高教调查实证数据)。
-- 最近证据: 2026-07-27 | Digital Education Council《AI in Higher Education Global Survey 2026》(35国4.5万人):全球教师使用AI比例77%持续上升,但"使用意愿"从2025年76%跌至2026年67%(-9pp),降幅主要来自美国/加拿大;美加仅26%教师对AI感到兴奋、55%认为AI威胁人类智力发展,亚太57%兴奋/29%担心,同一问卷内两地区情绪几乎相反;美加58%教师不担心自己教的内容过时,而37%学生、80%雇主认为高教没跟上产业变化 | Digital Education Council / Forbes / EdTech Innovation Hub / The Unemployed Professors Blog
-- 观察备注: 星级从三星上调至四星——证据来源的方法论多样性(厂商产品发布 vs 独立跨国行业调查)和场景覆盖(K-12美国 vs 全球高等教育)都在扩大,且首次出现"采用率涨、意愿跌"的背离和鲜明地区分化,说明"教师拥抱AI"不是单调曲线而是嵌有真实文化/制度分歧的现象。核心问题(AI是否改变教师专业判断、关系劳动和课堂权威)仍未被实证回答;下一步追踪DEC分国别/分学科原始数据是否公开、底特律试点进展、以及是否有人解释美加-亚太分化的制度成因(工会强度/终身教职比例/学术自由传统/监管环境)。
+- 近两个月出现次数: 3(2026-07-25 Anthropic Claude for Teachers发布+试点计划;2026-07-27 DEC全球高教调查实证数据;2026-07-31 UPenn Duckworth团队土耳其RCT因果证据)。
+- 最近证据: 2026-07-31 | Sungu, Lira Luttges & Duckworth(UPenn,SSRN工作论文,2026-06-25发布/2026-07-28经Hechinger Report报道后引爆媒体):土耳其14所私立学校193教师/2,816学生RCT,教师随机获得GPT-4o教学助手后,学生内在动机平均-0.11SD,全样本平均学业成绩未变,但实验前教学质量较弱教师班级的学生成绩与自信心同步显著下降,教师-AI对话中位数仅2轮、三分之二用于直接生成课堂材料 | SSRN / The Hechinger Report / KQED Mindshift / EdTech Innovation Hub
+- 观察备注: 星级从四星上调至满星——十天内这个信号的证据方法论完成了"厂商产品发布→跨国自我报告调查→独立第三方因果RCT"的完整闭环,首次具备清晰因果识别能力,对齐Assessment Reform/Cognitive Offloading的方法论多样性标准。同时这次RCT观测到的教师实际行为(median 2轮prompt、多为直接生成)对07-25 Anthropic自我报告"74%属于增强而非自动化"构成方法论质疑——独立行为观察与厂商自我报告分类之间可能存在系统性落差。核心新发现是异质性而非平均效应:AI没有拉平教师质量差距,反而在依赖教师专业判断力兜底的班级放大了损害。下一步追踪:是否有对照实验比较"结构化引导式AI使用"(录入具体学情后生成)与"自由生成式使用"对学生结果的差异;该论文能否经受同行评审;是否有非土耳其、非私立学校、更长周期的复制研究。
 
 ## Assessment Reform ★★★★★
 - 含义: AI降低传统作业/考试的可靠性后,学校和机构开始改变评价方式;也包括监管/问责机制能否真正约束AI介入评价的执行力问题。
