@@ -36,12 +36,14 @@
 - Evidence FOR:
   - 2026-07-20 | PwC《2026 Global AI Jobs Barometer》(10亿+招聘广告,27国):"professionalised"岗位(AI自动化常规任务后,人类判断力/专业性被强化,如放射科医生、招聘专员、空管员)工资涨幅37%,快于"democratised"岗位26%;入门岗位中被AI冲击最大的一批,要求领导力/战略决策/干系人管理等"资深技能"的概率是普通入门岗位7倍 | PwC
   - 2026-07-22 | 加州CDE《AI教育示范政策》把"举证责任的最终裁量权"明确留给教师专业判断(educator discretion),不允许自动化检测系统单方面认定学生行为——AI能给出概率性信号,但目前不被允许承担最终责任判定,呼应"谁有权判定真伪"这一维度 | CDE Model Policy
+  - 2026-08-04 | Zhang, Zhao, Hancock, Kraut & Yang(Stanford/CMU,Nature Human Behaviour):社交网络越小、越倾向把AI用作情感陪伴的用户,自我报告心理幸福感越低,且高强度/高自我暴露使用进一步放大负向关联——首次把"哪些能力不该外包给AI"这个问题从认知/学业领域延伸到社交情感领域:被倾听、获得情感支持这类需求,可能无法被单向、不互惠的AI陪伴真正满足,至少对社交资源本就匮乏者是如此(但为相关性证据,见下方反例) | Nature Human Behaviour / Stanford Report / Stanford HAI
 - Evidence AGAINST / Contradictions:
   - 2026-07-20 | 需注意这只是"目前AI还做不好这些任务"的相关性证据(工资溢价/需求增长),不能直接倒推为"人类永远独有";且"professionalised/democratised"分类标准本身未充分公开(如软件开发者被归为democratised,判断规则边界不清) | PwC报告局限
   - 2026-07-25 | 中学数学教师Dylan Kane认为"了解课程标准如何承前启后、如何拆解成可教单元"是教师不该被AI默认替代的核心判断力,但这仅是一位教师的个人经验判断,不是对照实验,也缺乏量化支撑 | GovTech
   - 2026-07-31 | Sungu, Lira Luttges & Duckworth(UPenn)土耳其RCT首次为Dylan Kane的个人经验判断提供大规模因果实验支撑:教师与AI对话中位数仅2轮、三分之二直接用于生成课堂材料,提示"针对本班具体学情调整AI产出内容"这一差异化教学判断正是被默认放弃的核心专业能力,且放弃这项判断的代价由学生(而非教师)承担 | SSRN / The Hechinger Report
   - 2026-08-04 | 教育写作者Natalie Wexler(《The Knowledge Gap》作者)针对Alpha School(俄克拉荷马两校区2026-08-12开学,核心学科完全由AI承担、不设持证教师)提出具体清单:与教师/同伴的讨论论辩、完整阅读一整本书,是这个问题证据链里第一次出现的、针对"AI替代教学"这一具体模式的具体能力清单,而非此前证据里更抽象的"判断力/专业性"——目前仅是个人论证,非实证研究 | Natalie Wexler Substack
-- Need: 避免把"AI暂时做不好"误认为"人类永远独有";需要持续跟踪模型能力变化和真实工作场景。
+  - 2026-08-04 | Julian De Freitas, Ahmet Kaan Uğuralp, Zeliha Uğuralp & Stefano Puntoni(Harvard Business School,Journal of Consumer Research 2026)四项研究(含两项因果实验)发现:AI陪伴在"天/周"尺度上能因果性缓解孤独感,效果与真人互动相当,优于看视频等替代活动,核心中介变量是用户"感觉被AI听懂了"——与同日发表的Zhang et al.相关性证据直接对立,提示"情感支持能否外包给AI"这个问题的答案可能取决于测量的时间尺度(即时情绪 vs 稳定幸福感)和使用者原有社交资源禀赋 | HBS Working Paper 24-078 / Journal of Consumer Research(Oxford Academic)
+- Need: 避免把"AI暂时做不好"误认为"人类永远独有";需要持续跟踪模型能力变化和真实工作场景;需要纵向追踪设计分离"AI陪伴使用导致关系能力退化"与"原本孤独者选择重度使用AI陪伴"两种因果方向,以及覆盖未成年人的对照研究。
 
 ## AI是否正在拆除新手通往专家的阶梯?
 - 当前理解: 传统入门岗位/新手任务(常规化、低风险)同时承担"完成基础工作"和"让新人借由边缘参与积累默会知识、建立专业身份"两个功能(呼应 Lave & Wenger 的 Legitimate Peripheral Participation)。AI优先自动化的恰好是这类任务,可能导致新手被直接推向原本只有资深从业者才需要面对的高阶任务,而失去了"合法边缘参与"这个学习入口。
