@@ -43,7 +43,8 @@
   - 2026-07-31 | Sungu, Lira Luttges & Duckworth(UPenn)土耳其RCT首次为Dylan Kane的个人经验判断提供大规模因果实验支撑:教师与AI对话中位数仅2轮、三分之二直接用于生成课堂材料,提示"针对本班具体学情调整AI产出内容"这一差异化教学判断正是被默认放弃的核心专业能力,且放弃这项判断的代价由学生(而非教师)承担 | SSRN / The Hechinger Report
   - 2026-08-04 | 教育写作者Natalie Wexler(《The Knowledge Gap》作者)针对Alpha School(俄克拉荷马两校区2026-08-12开学,核心学科完全由AI承担、不设持证教师)提出具体清单:与教师/同伴的讨论论辩、完整阅读一整本书,是这个问题证据链里第一次出现的、针对"AI替代教学"这一具体模式的具体能力清单,而非此前证据里更抽象的"判断力/专业性"——目前仅是个人论证,非实证研究 | Natalie Wexler Substack
   - 2026-08-04 | Julian De Freitas, Ahmet Kaan Uğuralp, Zeliha Uğuralp & Stefano Puntoni(Harvard Business School,Journal of Consumer Research 2026)四项研究(含两项因果实验)发现:AI陪伴在"天/周"尺度上能因果性缓解孤独感,效果与真人互动相当,优于看视频等替代活动,核心中介变量是用户"感觉被AI听懂了"——与同日发表的Zhang et al.相关性证据直接对立,提示"情感支持能否外包给AI"这个问题的答案可能取决于测量的时间尺度(即时情绪 vs 稳定幸福感)和使用者原有社交资源禀赋 | HBS Working Paper 24-078 / Journal of Consumer Research(Oxford Academic)
-- Need: 避免把"AI暂时做不好"误认为"人类永远独有";需要持续跟踪模型能力变化和真实工作场景;需要纵向追踪设计分离"AI陪伴使用导致关系能力退化"与"原本孤独者选择重度使用AI陪伴"两种因果方向,以及覆盖未成年人的对照研究。
+  - 2026-08-06 | Common Sense Media Youth AI Safety Institute对Gemini K-12的专项风险评估(2026-01-09发布,总体"High Risk",可信赖性/透明问责两项High Risk):模型目前不区分六年级与高三学生的认知发展阶段,统一处理方式导致无法识别未成年人心理健康求助信号——为"哪些判断不该外包给AI"新增具体候选项:识别并响应未成年人心理健康风险信号,目前还不能安全地外包给通用对话式AI,即使产品定位是学习工具而非陪伴机器人;该评估测的产品版本与2026-08-10正式扩展至所有年龄段K-12学生的版本是否完全一致,Google与评估方说法不一,是尚未解决的事实争议 | Common Sense Media Youth AI Safety Institute / TechCrunch / Google Workspace Updates
+- Need: 避免把"AI暂时做不好"误认为"人类永远独有";需要持续跟踪模型能力变化和真实工作场景;需要纵向追踪设计分离"AI陪伴使用导致关系能力退化"与"原本孤独者选择重度使用AI陪伴"两种因果方向,以及覆盖未成年人的对照研究;需要独立机构对Gemini in Classroom 2026-08-10生效新版本重新测评,以及儿童发展心理学者专门研究教育场景AI聊天工具(区别于陪伴型应用)对5-12岁儿童的影响。
 
 ## AI是否正在拆除新手通往专家的阶梯?
 - 当前理解: 传统入门岗位/新手任务(常规化、低风险)同时承担"完成基础工作"和"让新人借由边缘参与积累默会知识、建立专业身份"两个功能(呼应 Lave & Wenger 的 Legitimate Peripheral Participation)。AI优先自动化的恰好是这类任务,可能导致新手被直接推向原本只有资深从业者才需要面对的高阶任务,而失去了"合法边缘参与"这个学习入口。
