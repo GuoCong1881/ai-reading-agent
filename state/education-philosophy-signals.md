@@ -19,9 +19,9 @@
 
 ## Teacher AI Adoption ★★★★★
 - 含义: 教师将AI用于备课、反馈、个性化支持、行政减负或课堂互动,并逐渐改变教师角色。
-- 近两个月出现次数: 4(2026-07-25 Anthropic Claude for Teachers发布+试点计划;2026-07-27 DEC全球高教调查实证数据;2026-07-31 UPenn Duckworth团队土耳其RCT因果证据;2026-08-04 Alpha School俄克拉荷马开学)。
-- 最近证据: 2026-08-04 | Alpha School(2014年创立于奥斯汀,Joe Liemandt注资10亿美元、Bill Ackman公开背书)俄克拉荷马Edmond/Tulsa两校区2026-08-12开学:核心学科教学完全由AI自适应平台承担(每天2小时),不设持证教师,仅有本科学历、无需教师资格证的"guide"负责下午项目式活动;Stanford学者Victor Lee指出其效果数据存在生源社会经济地位选择偏差,宾州教育厅曾正式评估该模式"untested" | Oklahoma Watch / KGOU / Tech Times / Natalie Wexler Substack
-- 观察备注: 星级维持满星,但这条证据在性质上和此前三条不同——此前三条全部是"持证教师个体是否/如何使用AI"的框架(AI是工具),这是第一次出现"整条商业连锁在组织架构层面彻底移除持证教师作为学科讲授主体"的真实运营样本,而且有真金白银资本(10亿美元承诺)和真实监管评估(宾州教育厅)佐证,不是理论推演或单点实验。核心新发现:被移除的不是"AI辅助教学"这件事,而是"持证教师"这个职业身份本身在学科讲授环节的必要性假设;下一步追踪:是否有独立研究者获得数据访问权限核实"2.6倍"效果数字;是否有其他州教育部门跟进宾州式的正式资质评估;Alpha学生升学/进入职场后的长期追踪数据是否出现。
+- 近两个月出现次数: 5(2026-07-25 Anthropic Claude for Teachers发布+试点计划;2026-07-27 DEC全球高教调查实证数据;2026-07-31 UPenn Duckworth团队土耳其RCT因果证据;2026-08-04 Alpha School俄克拉荷马开学;2026-08-04/08-08记录 OpenAI三款教育agentic插件发布)。
+- 最近证据: 2026-08-04 | OpenAI发布K-12 Educator/College Educator/College Student三款教育agentic插件(接入ChatGPT Work与Codex),可调用课程材料自动完成课程设计、教学大纲更新、评分标准制定等多步骤任务,试点含Houston ISD/Fairfax County/Fulton County及Wharton/UT Austin/Cal State系统;继07-25 Anthropic、08-06 Google后13天内第三家AI实验室推出教育基础设施级产品;Forbes(Ray Ravaglia)提出效果取决于作业是否重新设计,The Register质疑在已有损害学习证据与教师联署反对背景下的产品优先级 | OpenAI官方博客 / Forbes / The Register / Inside Higher Ed
+- 观察备注: 星级维持满星,第5次证据标志着这个信号出现了能力层级的跃迁——此前证据都是"教师是否/如何使用对话式AI助手",这次是AI公司把课程设计/教学大纲/评分标准这类教师专业判断工作,整体打包成可一键触发的agentic自动化任务,从"回答问题"升级为"执行任务"。已连续5次跨越完全不同的证据类型(厂商自我报告、跨国调查、RCT、资本化私立学校样本、agentic产品发布),稳定为长期趋势;下一步考虑是否需要拆出"agentic工作流自动化"子信号专门追踪这个新能力层级,并持续观察是否有学校/学区真的针对这类agentic能力重新设计了作业与评价方式(呼应Constructive Alignment理论的预测)。
 
 ## Assessment Reform ★★★★★
 - 含义: AI降低传统作业/考试的可靠性后,学校和机构开始改变评价方式;也包括监管/问责机制能否真正约束AI介入评价的执行力问题。
