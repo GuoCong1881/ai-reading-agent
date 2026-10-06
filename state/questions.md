@@ -81,6 +81,7 @@
 ## AI Literacy到底是什么?
 - 当前理解: AI Literacy 可能同时包含工具使用、模型基本原理、数据/偏见意识、验证能力、安全/伦理判断、与AI协作的工作流设计;目前即便在同一国家、同一年,不同治理主体给出的定义也互不相同甚至互相缺失。
 - Evidence FOR:
+  - 2026-10-06 | arXiv 2609.25244(Ozturk, Jiang, Barnes, Tian等,预印本):115名8-18岁学习者设计119个聊天机器人,10-13岁以"完成目的"定义可信(有人故意做错答案仍称可信),14-18岁强调透明与校准;提示"批判性评估AI"维度可能需按发展阶段分层定义。局限:设计信念≠真实使用行为、横截面无法区分发展与代际效应、仅读摘要 | arXiv。Need: 设计型学习活动对真实使用中信任校准的准实验/纵向证据
   - 2026-07-26 | H.R.5584 LIFT AI Act文本明确定义AI literacy为"与年龄相适应的知识和能力,能够有效使用AI、批判性解读其输出、在AI赋能世界中解决问题、降低潜在风险"(操作能力/批判解读/问题解决/风险意识四要素) | Congress.gov
   - 2026-07-29 | OECD与欧盟委员会联合发布AILit Framework(2026-06-17/18):首次给出具有跨国官方地位、结构化(4 domain/19 competence/3级progression,每项competence含Knowledge+Skills+Attitudes)的操作化定义,绑定PISA 2029 MAIL评估和欧盟AI Act第4条,与美国国会同期"两党两案定义分裂"形成对照,提示定义权正部分从民族国家党派博弈转移到超国家专家共识机构手中 | OECD / European Commission / AILit Framework官网
 - Evidence AGAINST / Contradictions:
