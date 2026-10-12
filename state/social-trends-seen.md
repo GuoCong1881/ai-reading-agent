@@ -77,3 +77,4 @@
 - 2026-10-07 | Challenger数据显示AI成2026年美国裁员公告头号理由(1月7%→5月约40%),Pitt(Mark Ma)/亚特兰大联储研究(8月下旬报道,超窗口,仅读二手摘要)称约90%高管认为AI未提升生产率、AI裁员公告股价反应近零;Zhao/Gimbel等质疑"AI washing" | Challenger Gray & Christmas / Fortune / AI Weekly / HCAMag / Atlanta Fed | 制度同形(Institutional Isomorphism, Meyer & Rowan / DiMaggio & Powell)
 - 2026-10-10 | AP-NORC 9-24至28日民调(2,140人,10-08发布,仅读摘要与转载):64%美国人认为AI发展太快(民主党76%/共和党54%),约8成要求保持人类控制与保护工人,39%认为两党都不可信;对照Pew使用率上升与忧虑并存 | AP-NORC / Fortune / Fast Company / Pew(二手) | 无
 - 2026-10-11 | 世界银行10-06同日发布ECA《Making AI Work》(约20%工作者暴露、企业采用率<10%、增长降至2.2%、称风险或是用得太少)与EAP《Riding the AI Wave》(AI硬件出口推升增长至4.5%但警示集中风险),仅读新闻稿/目录摘录与媒体转述 | World Bank / IBTimes / Vietnam News / IMF / Bloomberg(二手) | 无
+- 2026-10-12 | Chandar(Stanford)与Klein Teeselink(KCL)41国研究(9-21发布,仅读媒体转述未读原文):采用AI企业五年内高级岗位+6.7%、初级-3%、初级占比-1.9pp,对照Ramp/Revelio入门级招聘+12%(相关性)与丹麦/美国总就业无影响 | Bloomberg转载(Business Standard/The Star/Insurance Journal) / phys.org / Ramp / 国际AI安全报告2026 | 无
