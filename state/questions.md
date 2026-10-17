@@ -43,6 +43,7 @@
   - 2026-07-20 | PwC《2026 Global AI Jobs Barometer》(10亿+招聘广告,27国):"professionalised"岗位(AI自动化常规任务后,人类判断力/专业性被强化,如放射科医生、招聘专员、空管员)工资涨幅37%,快于"democratised"岗位26%;入门岗位中被AI冲击最大的一批,要求领导力/战略决策/干系人管理等"资深技能"的概率是普通入门岗位7倍 | PwC
   - 2026-07-22 | 加州CDE《AI教育示范政策》把"举证责任的最终裁量权"明确留给教师专业判断(educator discretion),不允许自动化检测系统单方面认定学生行为——AI能给出概率性信号,但目前不被允许承担最终责任判定,呼应"谁有权判定真伪"这一维度 | CDE Model Policy
   - 2026-08-04 | Zhang, Zhao, Hancock, Kraut & Yang(Stanford/CMU,Nature Human Behaviour):社交网络越小、越倾向把AI用作情感陪伴的用户,自我报告心理幸福感越低,且高强度/高自我暴露使用进一步放大负向关联——首次把"哪些能力不该外包给AI"这个问题从认知/学业领域延伸到社交情感领域:被倾听、获得情感支持这类需求,可能无法被单向、不互惠的AI陪伴真正满足,至少对社交资源本就匮乏者是如此(但为相关性证据,见下方反例) | Nature Human Behaviour / Stanford Report / Stanford HAI
+  - 2026-10-17 | Fan, Li, Zhang(Frontiers in Psychology)综述:"决定何时外包"的认知能动性可能是不可外包的核心能力;但46项研究仅8项含未成年人、无一同时测家庭与学校,儿童中的形成机制近乎空白(叙述性综述,SDT框架未检验)。Need: 8-14岁纵向/准实验,比较禁令型与自主支持型学校
 - Evidence AGAINST / Contradictions:
   - 2026-07-20 | 需注意这只是"目前AI还做不好这些任务"的相关性证据(工资溢价/需求增长),不能直接倒推为"人类永远独有";且"professionalised/democratised"分类标准本身未充分公开(如软件开发者被归为democratised,判断规则边界不清) | PwC报告局限
   - 2026-07-25 | 中学数学教师Dylan Kane认为"了解课程标准如何承前启后、如何拆解成可教单元"是教师不该被AI默认替代的核心判断力,但这仅是一位教师的个人经验判断,不是对照实验,也缺乏量化支撑 | GovTech
