@@ -82,3 +82,4 @@
 - 2026-10-14 | 参议员Gallego(10-06/07)公布AI工作冲击一揽子计划:机器人税(无公式)+数据中心10%消费税(税基报道不一)+20美元最低工资+公共就业,对照Wyden 8月白皮书与民主党内约半打竞争路线;仅读媒体转述未读计划原文,未找到对本计划的具名反对回应 | Bloomberg Government / Semafor / NOTUS / Washington Examiner / AI Weekly | Acemoglu-Restrepo过度自动化(税制偏向资本)
 - 2026-10-15 | IMF 10-13曼谷发布10月WEO(仅读Reuters等转述未读原文):2026全球增长3.1%、美国2.3%,AI投资骤降情景下2028年全球GDP低1.1%/美国低1.8%,副研究主管称不至全球衰退;Georgieva 10-07称AI热潮高度不均衡且具通胀性;未找到针对本报告的具名反对 | IMF / Reuters(Kitco/US News) / Axios / TimesLive | 无
 - 2026-10-16 | Indeed Hiring Lab(Gallacher,2026-07-08;CNBC 10-11重新报道,仅读搜索摘要与转述):美国软件开发职位广告自2025-02起+约15%(整体-7%)、仍低于疫前27.5%,增量71%来自资深岗位、37%含AI标题;作者称相关非因果,未找到具名反驳 | Indeed Hiring Lab / CNBC / Yale Budget Lab | 无
+- 2026-10-17 | 澳大利亚助理财长Andrew Leigh 10-13在JPMorgan AI大会演讲:AI可能缩小新手-专家工资差距(5,000+客服研究:整体+15%、低技能约+30%)但拉大劳动与资本收入差距("toll collectors");仅读搜索摘要与媒体转述未读全文,未找到对该演讲的具名回应,对照C.D. Howe与Stanford Canaries | andrewleigh.com / Capital Brief / AAP / C.D. Howe / AI Weekly | 无
