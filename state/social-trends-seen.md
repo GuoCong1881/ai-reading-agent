@@ -83,3 +83,4 @@
 - 2026-10-15 | IMF 10-13曼谷发布10月WEO(仅读Reuters等转述未读原文):2026全球增长3.1%、美国2.3%,AI投资骤降情景下2028年全球GDP低1.1%/美国低1.8%,副研究主管称不至全球衰退;Georgieva 10-07称AI热潮高度不均衡且具通胀性;未找到针对本报告的具名反对 | IMF / Reuters(Kitco/US News) / Axios / TimesLive | 无
 - 2026-10-16 | Indeed Hiring Lab(Gallacher,2026-07-08;CNBC 10-11重新报道,仅读搜索摘要与转述):美国软件开发职位广告自2025-02起+约15%(整体-7%)、仍低于疫前27.5%,增量71%来自资深岗位、37%含AI标题;作者称相关非因果,未找到具名反驳 | Indeed Hiring Lab / CNBC / Yale Budget Lab | 无
 - 2026-10-17 | 澳大利亚助理财长Andrew Leigh 10-13在JPMorgan AI大会演讲:AI可能缩小新手-专家工资差距(5,000+客服研究:整体+15%、低技能约+30%)但拉大劳动与资本收入差距("toll collectors");仅读搜索摘要与媒体转述未读全文,未找到对该演讲的具名回应,对照C.D. Howe与Stanford Canaries | andrewleigh.com / Capital Brief / AAP / C.D. Howe / AI Weekly | 无
+- 2026-10-18 | 美联储10-14发布10月Beige Book(仅读搜索摘要与二手转述未读原文):12辖区中5个出现企业因AI生产率提升而自然减员/缓招/预期少招,全国就业几乎无变化,明尼阿波利斯联储称AI抑制新岗位创造而非裁员;轶事性质、未找到针对性具名反驳 | Federal Reserve / Minneapolis Fed / 24/7 Wall St. / Cryptopolitan | 无
