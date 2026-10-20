@@ -85,3 +85,4 @@
 - 2026-10-17 | 澳大利亚助理财长Andrew Leigh 10-13在JPMorgan AI大会演讲:AI可能缩小新手-专家工资差距(5,000+客服研究:整体+15%、低技能约+30%)但拉大劳动与资本收入差距("toll collectors");仅读搜索摘要与媒体转述未读全文,未找到对该演讲的具名回应,对照C.D. Howe与Stanford Canaries | andrewleigh.com / Capital Brief / AAP / C.D. Howe / AI Weekly | 无
 - 2026-10-18 | 美联储10-14发布10月Beige Book(仅读搜索摘要与二手转述未读原文):12辖区中5个出现企业因AI生产率提升而自然减员/缓招/预期少招,全国就业几乎无变化,明尼阿波利斯联储称AI抑制新岗位创造而非裁员;轶事性质、未找到针对性具名反驳 | Federal Reserve / Minneapolis Fed / 24/7 Wall St. / Cryptopolitan | 无
 - 2026-10-19 | 中国10-10国新办发布会公布人社部"AI就业行动"(2026-2030五项就业行动之一:新职业识别机制、200余项职业标准、全民AI技能;前三季度新增就业1052万),青年失业率归因不清(仅读二手转述未读官方原文) | Bloomberg(Staffing Industry) / FourWeekMBA / Lawfare / Itiger | 无
+- 2026-10-20 | 欧委会10-14发布Flash Eurobarometer 578(1–749人企业主电话调查约12,826人,2026-3/4月):42%已用AI/算法管理+21%计划、深度使用约12%、49%不信任用于员工决策;雇主自报无员工视角,仅读二手摘要;对照ETUC算法管理指令主张与ECB Lane 10-13演讲 | 欧委会DG EMPL / EUbusiness / Brussels Times / ETUC / ECB | 无
