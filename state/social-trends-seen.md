@@ -88,3 +88,4 @@
 - 2026-10-20 | 欧委会10-14发布Flash Eurobarometer 578(1–749人企业主电话调查约12,826人,2026-3/4月):42%已用AI/算法管理+21%计划、深度使用约12%、49%不信任用于员工决策;雇主自报无员工视角,仅读二手摘要;对照ETUC算法管理指令主张与ECB Lane 10-13演讲 | 欧委会DG EMPL / EUbusiness / Brussels Times / ETUC / ECB | 无
 - 2026-10-21 | 挪威DNB 10-06公告以agentic AI为由在Technology & Services削减约400 FTE(约4%,Q4完成;仅读二手转述未读公告原文),Finansforbundet质疑"AI等于更少员工"的必然性;对照Morgan Stanley欧洲银行2030年约20万岗位预测(分析师预测非观测) | DNB / FinTech Futures / FourWeekMBA / Finansforbundet(NTB) / TechRepublic | 无
 - 2026-10-22 | The Information报道(Reuters未能核实)中国工信部要求字节/阿里/腾讯披露购买英伟达RTX PRO 5500计划并有意批准,字节据称约100万张,美方出口管制态度未明;聚合简报的350亿美元/300万张数字与其他来源不符未采信(仅读二手转述) | The Information(经TNW/AI Weekly/investingLive/Implicator转述) | 无(仅提及武器化相互依赖)
+- 2026-10-23 | 达拉斯联储WP 2606修订版(2026-10):调度模型反事实称数据中心已使美国批发电价+6.9%(北弗吉尼亚+15%,2028情景12.3%),高于初版3–5%;仅读摘要与转述未读全文,对照USC Marshall/LBNL/NCEA质疑 | Dallas Fed / NCEA / IER / Cybernews / Latitude Media | 无
