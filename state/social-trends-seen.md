@@ -90,3 +90,4 @@
 - 2026-10-22 | The Information报道(Reuters未能核实)中国工信部要求字节/阿里/腾讯披露购买英伟达RTX PRO 5500计划并有意批准,字节据称约100万张,美方出口管制态度未明;聚合简报的350亿美元/300万张数字与其他来源不符未采信(仅读二手转述) | The Information(经TNW/AI Weekly/investingLive/Implicator转述) | 无(仅提及武器化相互依赖)
 - 2026-10-23 | 达拉斯联储WP 2606修订版(2026-10):调度模型反事实称数据中心已使美国批发电价+6.9%(北弗吉尼亚+15%,2028情景12.3%),高于初版3–5%;仅读摘要与转述未读全文,对照USC Marshall/LBNL/NCEA质疑 | Dallas Fed / NCEA / IER / Cybernews / Latitude Media | 无
 - 2026-10-24 | BEA工作论文WP2026-18《AI Utilization and Economic Performance》(Makridis/Highfill/Samuels,论文标8月,Survey of Current Business Spotlight 2026-10;仅读摘要未读全文):工人自报AI使用多的州-行业格子2016-2024产出轨迹更强、就业为正但不精确,雇主自报指标复现不了,作者称仅描述性;对照Humlum-Vestergaard丹麦零效应 | BEA / Brookings / Gallup(二手) | 无
+- 2026-10-25 | IMF 10月《亚太地区经济展望》(约10-15日,仅读Reuters/The Star等转述未读原文):约4,000万条招聘广告、19个经济体,AI高暴露职业招聘需求较低暴露职业相对低近10%且已趋稳,未找到对方法的具名批评;对照国际AI安全报告(丹麦/美国总就业无影响) | IMF / Reuters(The Star) / Asianet / Policy Edge | 无
