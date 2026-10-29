@@ -92,6 +92,7 @@
   - 2026-07-26 | H.R.5584 LIFT AI Act文本明确定义AI literacy为"与年龄相适应的知识和能力,能够有效使用AI、批判性解读其输出、在AI赋能世界中解决问题、降低潜在风险"(操作能力/批判解读/问题解决/风险意识四要素) | Congress.gov
   - 2026-07-29 | OECD与欧盟委员会联合发布AILit Framework(2026-06-17/18):首次给出具有跨国官方地位、结构化(4 domain/19 competence/3级progression,每项competence含Knowledge+Skills+Attitudes)的操作化定义,绑定PISA 2029 MAIL评估和欧盟AI Act第4条,与美国国会同期"两党两案定义分裂"形成对照,提示定义权正部分从民族国家党派博弈转移到超国家专家共识机构手中 | OECD / European Commission / AILit Framework官网
 - Evidence AGAINST / Contradictions:
+  - 2026-10-29 | 马来西亚教育部长国会答复:以329,414名教师受训、约150万学生接触作为AI素养进度指标,但未见课程对AI素养的定义/评价,培训人次是投入指标而非能力证据;教师工会与部分团体质疑准备度(仅读二手摘要) | The Star / Bernama / The Sun / FMT
   - 2026-07-26 | H.R.8747《K-12 AI Literacy and Readiness Act》全文未定义"AI literacy",仅援引《国家人工智能倡议法》对"人工智能"技术本身的定义,把"素养是什么"完全留白交给州/学区自行解释 | Congress.gov
   - 2026-07-26 | 同一届国会同一年夏天,教育与劳动力委员会(党派路线、许可性立法、无定义)与科学太空技术委员会(跨党派、新增NSF拨款、有定义)用两条完全不同路径处理"联邦该不该为AI literacy出钱、出钱给谁定义权"这同一问题 | Bloomberg Government / science.house.gov / amo.house.gov
   - 2026-07-29 | AILit框架是专家共识+利益相关方咨询产物,非经验证的实证干预,文本自陈"证据仍混杂""仍需更多研究";且对欧盟成员国/学校而言采纳是自愿性质,与AI Act第4条的强制义务之间没有绑定关系——独立顾问Basil Puglisi批评框架把"应主动/脚手架式使用AI"这一自己援引的学习理论主张,在实施层面全部变成了可选项 | basilpuglisi.com
