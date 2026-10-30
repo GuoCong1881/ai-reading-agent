@@ -95,3 +95,4 @@
 - 2026-10-27 | Workday 10-05《Global Workforce Report》(550+雇主招聘需求数据+约6,000员工调查):基础AI技能需求自1月峰值-25%、动手型AI技能+51%,内部转岗57%雇主减少;厂商自有客户样本,仅读新闻稿摘要与转述未读原文,无具名独立批评,对照Yale Budget Lab/Revelio | Workday / capital.com / AI Weekly(二手) | 无
 - 2026-10-28 | 英格兰银行FPC 9月底记录(9-25开会/约9-30发布)与行长Bailey 10-01前后BBC采访:AI相关债务发行(Morgan Stanley估约4500亿美元,约2025年两倍)叠加伊朗冲突与能源价格推高金融稳定风险;未读BoE原文,仅读路透/Bloomberg/TNW转述,未找到针对本记录的具名反驳 | Bank of England / Reuters(Cyprus Mail) / Bloomberg / The Next Web | Minsky金融不稳定假说
 - 2026-10-29 | 圣路易斯联储Rodgers & Kassens(2026-06-30,超窗口放宽)《It's (Still) the Business Cycle》:18–24岁就业人口比2023-04至2025-12降超2点,职位空缺下降为最大因素,AI技能需求约占失业上升三分之一;未读原文,仅读搜索摘要与HR Dive/EdSource转述,对照OECD(8月)与IZA毕业生文章 | St. Louis Fed / HR Dive / EdSource / OECD / IZA | 无
+- 2026-10-30 | Alphabet 10-28 Q3财报(XTB等二手):营收1276亿+25%、Cloud约307亿、capex 514亿+114%、FCF -91亿、EPS 2.12 vs 预期约3.00,盘后跌约8%(Yahoo称12%);未读8-K原文,Microsoft/backlog数字来源矛盾;对照7月分析师谨慎/乐观观点 | XTB / SiliconANGLE / Barchart / AI Weekly(二手) | 无
