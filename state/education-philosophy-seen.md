@@ -95,3 +95,4 @@
 - 2026-11-01 | SETDA第五版《State EdTech Trends Report》(2026-10-29,PR Newswire新闻稿,仅读搜索摘要,数字未交叉验证):79%州级负责人把AI列首要优先事项(去年68%)、83%州有AI举措、23%州立法要求AI指导(2024年4%);自我报告问卷、无学习结果 | SETDA / PR Newswire | 无 | AI会改善学习吗? | AI Literacy(第21次证据,维持★★★★★)
 - 2026-11-02 | Google×Eedi扩大版英国RCT(2026-10-29前后,约10周/12-15岁/报道约1,100+人):AI辅导平台内近迁移与人类导师相当,但STAR标准化测验无增益,AI组每次约14题vs静态19题(未读原报告,样本数仅单一来源;发布方即产品方) | Google LearnLM博客/Superpower Daily/arXiv 2512.23633 | 学习与表现区分(Soderstrom & Bjork) | AI会改善学习吗? | Personalized Learning(维持★★★★★,新增近/远迁移脱钩维度)
 - 2026-11-03 | Anthropic 2026-10-13前后在Coursera上线10门免费课程(目录12→22门,含与AFT合作的pK-12教师AI Fluency课;仅读搜索摘要,无成效数据,作者模型与厂商同源) | Coursera Blog / Edtech Innovation Hub / The 74(批评) | 无 | AI Literacy到底是什么? | AI Literacy(第21次证据,维持★★★★★)
+- 2026-11-04 | EdWeek(Sawchuk,2026-11-02)报道新评审:多篇正向"AI提升学习"元分析存在过度合并/发表偏倚/底层研究数据异常等缺陷(仅读搜索摘要节选,未读原文与评审本身) | EdWeek / J. Computer Assisted Learning / NEPC | 无 | AI会改善学习吗? | Personalized Learning(新增证据综合层,维持★★★★★)
