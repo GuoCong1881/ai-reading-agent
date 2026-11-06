@@ -27,6 +27,7 @@
 - Evidence FOR:
   - 2026-07-27 | Digital Education Council《AI in Higher Education Global Survey 2026》(35国4.5万人):DEC领导层原话"采用已经普遍,但一致的实践还没有形成"——学校"采用AI"的速度远超"重新设计评价、建立可信指引"的速度,仅28%学生认为评价反映真实技能需求,仅29%认为教师有能力指导AI使用;提示学校作为"评价可信度中介"和"课程-职场翻译者"这两个传统功能正被采用速度反超 | Digital Education Council / EdTech Innovation Hub
 - Evidence AGAINST / Contradictions:
+  - 2026-11-06 | Google宣布K-12学生账号AI/Search默认关闭、管理员opt-in,但Phillips称拒绝AI的学校将失去Search(Google随后澄清可单独开关,AI Overviews不可关;各方事实描述冲突,未读原文):学校"价值守门/保留无AI空间"的决定受供应商产品捆绑约束。Need: 实际opt-in比例、官方文档、欧洲学区反应 | CBS/TechCrunch/EdSource
   - 2026-10-12 | Frederick County(马里兰)教委10-07以6:1全面禁止pre-K-12学生用AI(几周前刚试点Gemini),选择"保护无AI学习空间"这一答案;与哈佛CDT报告警告"不信任型政策可能把学生使用推入暗处"并置形成张力(非直接交锋);单一学区政治决定,不是教育证据 | Fox5 DC / Harvard GSE
 - 跨领域延伸证据:
   - 2026-10-12 | 哈佛CDT《An AI Policy Isn't a Playbook》(1,000+教师/校长问卷+31名学生访谈,仅读转述):约25%教师/29%校长遇AI两难,其中74%/69%为作弊猜疑(换算约占全体两成);学生隐藏使用、故意压低作业、把问题转向聊天机器人,"Teachers can't see their students anymore"——学校的意义之一(关系与学习过程的可见性)在AI下受损,问题是信任而非知识缺乏;无严格vs宽松政策对照,因果未检验 | Harvard GSE / ABC-GMA
