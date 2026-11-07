@@ -64,6 +64,7 @@
 - 历史证据: 2026-08-09 | NYC教育局(全美最大学区,110万学生)"红绿灯"AI使用框架把评分、纪律处分、安置决定、IEP/504计划、行为监控、心理咨询与危机干预明确划为AI红线(人类专属),但该框架历经两次延期至8月4日仍未最终定稿,伴随市议会过半数(29/51)议员联署要求两年暂停令的政治施压 | NY1 / Christian Science Monitor / Chalkbeat / Class Size Matters
 
 ## Personalized Learning ★★★★★
+- 2026-11-07补充: Zhou等(Reading and Writing,127名小学生三臂,仅读摘要):chatbot带读≈师范生带读、推断题更优,低基线低动机者受益更大,投入度中介;新增"按学习者特征分化+投入度机制"维度,同刊幼儿园实验无AI优势;第13次证据,维持★★★★★ | Springer / Issue #217
 - 2026-11-04补充: EdWeek报道新评审(仅读摘要节选)称多篇正向AI教育元分析过度合并、未处理发表偏倚、底层研究有数据异常;与ALI(10-19经费层)、单个RCT构成"单研究/经费/综合"三层证据缺口;维持★★★★★ | EdWeek / Issue #211
 - 2026-11-02补充: Google×Eedi扩大RCT(约10周/12-15岁;未读原报告):AI辅导平台内近迁移≈人类导师,STAR标准化测验无增益,AI组题量14 vs 19。与Khanmigo RCT、StudentBench构成"测得越近AI越像人类、测得越远优势越消失"的梯度;维持★★★★★ | Google LearnLM / Issue #207
 - 2026-10-28补充: NBER w35620(Oreopoulos & Low)Khanmigo两年整群RCT,增益约0.06–0.08 SD/学年、与无AI Khan练习相当,瓶颈为低使用率(中位约1/3练习日、约17%错题求助);仅读摘要与二手,不上调星级 | NBER / Hechinger
