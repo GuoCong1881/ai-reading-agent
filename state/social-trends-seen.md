@@ -103,3 +103,4 @@
 - 2026-11-04 | Apollo(Slok团队,2026-08,超窗口放宽)双重差分:321职业/2015-2025,AI高暴露职业2023后实际工资增速相对低6.7个百分点、就业无显著效应;未读原文,仅读搜索摘要与Fortune/Yahoo转述,28B美元数字未核实;对照Vanguard与7月文献综述 | Apollo / Bloomberg / Fortune / Yahoo Finance(二手) | 无
 - 2026-11-05 | Anthropic公开版S-1(EDGAR标注2026-10-26;H1收入约163亿/净亏损约807亿其中约九成为公允价值调整,算力承诺5,180亿~8,954亿多口径;未读SEC原文,仅读二手分析,数字互相矛盾;写作模型由Anthropic开发存在利益相关);对照Tunguz/Cordle怀疑与Alpha-Sense正面 | SEC EDGAR / Tunguz / DualEntry / MLQ(二手) | 无
 - 2026-11-06 | Challenger Gray & Christmas 9月报告(约10月初;与10-07条目同一数据系列的新一期):1-9月宣布裁员约573,195(-39%),AI被点名120,136(约21%),9月AI仅约3,961(约9%)而7月33%;未读原PDF,仅读搜索摘要与二手转述,数字口径有出入;对照Cappelli/Kinder的AI-washing质疑 | Challenger Gray & Christmas / HCAmag / Fortune(二手) | 无
+- 2026-11-07 | Bloomberg(约2026-07-01,超窗口放宽)分析BLS:2026年金融活动与信息业就业月均净减约2.8万,采用率39.7%/33.9% vs 全国19.8%;原文付费墙未读,仅读二手转述,口径数字不一致;对照Yale Budget Lab/NY Fed(利率与过度招聘)/Stanford Digital Economy Lab | Bloomberg / PYMNTS / AI Weekly / Yale Budget Lab(二手) | 无
