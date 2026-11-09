@@ -105,3 +105,4 @@
 - 2026-11-06 | Challenger Gray & Christmas 9月报告(约10月初;与10-07条目同一数据系列的新一期):1-9月宣布裁员约573,195(-39%),AI被点名120,136(约21%),9月AI仅约3,961(约9%)而7月33%;未读原PDF,仅读搜索摘要与二手转述,数字口径有出入;对照Cappelli/Kinder的AI-washing质疑 | Challenger Gray & Christmas / HCAmag / Fortune(二手) | 无
 - 2026-11-07 | Bloomberg(约2026-07-01,超窗口放宽)分析BLS:2026年金融活动与信息业就业月均净减约2.8万,采用率39.7%/33.9% vs 全国19.8%;原文付费墙未读,仅读二手转述,口径数字不一致;对照Yale Budget Lab/NY Fed(利率与过度招聘)/Stanford Digital Economy Lab | Bloomberg / PYMNTS / AI Weekly / Yale Budget Lab(二手) | 无
 - 2026-11-08 | BLS 10月就业报告(11-06,仅读Marketplace/HCAmag(路透)/roic(ADP)/博客等二手转述未读BLS原文):非农约+16.5万、失业率4.1%,专业服务业数字口径不一(+7万/+3.3万 vs ADP -2.7万),信息业同比约-4.2%(博客自算);对照11-07 Bloomberg分析,未找到针对AI归因的具名交锋 | BLS / Marketplace / HCAmag(Reuters) / roic.ai(ADP)(二手) | 无
+- 2026-11-09 | Reuters独家(11-05):约60万块Nvidia H200滞留香港,北京未批准大规模进口(两位匿名知情人士;未读原文,仅读TNW/StockAnalysis等转述,IDC -44%等数字未核实);对照ITIF/Tom's Hardware | Reuters / The Next Web / StockAnalysis / AI Weekly(二手) | Hirschman贸易权力结构/武器化相互依赖
