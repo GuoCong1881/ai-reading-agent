@@ -126,6 +126,7 @@
 - Evidence FOR:
   - 2026-07-25 | Anthropic《教育报告》分析7.4万条高等教育教师匿名对话:课堂教学相关任务中约74%的AI使用被归类为"增强"而非"自动化",提示至少在自我报告/使用模式层面,教师保留了对判断类工作的主导权(样本为高等教育、非独立第三方评估,外推需谨慎) | Anthropic
 - Evidence AGAINST / Contradictions:
+  - 2026-11-12 | E4E 2026教师调查(EdSurge 11-03):43%教师无任何AI培训、不足1/4认为足以教学生用AI(自我报告、二手、未读原文);对照MDPI/TALIS(34,628名教师)与WISE Qatar:补培训未必改变教学——角色转型缺少制度支撑。Need: 受训vs未受训教师的学生结果对照、统一的"培训"定义
   - 2026-07-25 | 中学数学教师Dylan Kane:AI教案工具对熟练教师帮助有限,但可能让新教师失去把课程标准拆解为可教单元这一核心技能的练习机会("risk de-skilling newer teachers") | GovTech
   - 2026-07-25 | 前波士顿公立学校技术负责人Mark Racine:Anthropic的Claude for Teachers绕开学区采购与IT审核、直接向教师个人营销并鼓励上传学生数据,是治理责任主体从机构转移到个人,而非单纯的教学效果问题 | EdWeek/GovTech
   - 2026-07-27 | Digital Education Council《AI in Higher Education Global Survey 2026》(35国4.5万人):美加58%教师不担心自己教的内容会过时,但37%学生、80%雇主认为高教没跟上产业变化——教的人和被教/用人的人对同一件事判断方向相反,提示"教师角色危机"可能不是能力问题而是感知错位问题;同时77%教师已在使用AI,但美加55%教师同时相信AI威胁人类智力发展,呈现"边用边不信任"的自我矛盾姿态,而亚太教师(57%兴奋/29%担心)呈现几乎相反的情绪反应,提示这一问题嵌有真实的地区文化/制度分歧 | Digital Education Council / The Unemployed Professors Blog
