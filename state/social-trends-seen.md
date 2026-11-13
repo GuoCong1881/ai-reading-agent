@@ -108,3 +108,4 @@
 - 2026-11-09 | Reuters独家(11-05):约60万块Nvidia H200滞留香港,北京未批准大规模进口(两位匿名知情人士;未读原文,仅读TNW/StockAnalysis等转述,IDC -44%等数字未核实);对照ITIF/Tom's Hardware | Reuters / The Next Web / StockAnalysis / AI Weekly(二手) | Hirschman贸易权力结构/武器化相互依赖
 - 2026-11-10 | 欧盟AI Gigafactories招标(2026-07-30发起,11-12截止;≥7座/每座≥10万芯片,公共资金约100亿欧元+私人约200亿,40亿欧元欧盟出资待MFF;未读招标原文,仅读搜索摘要与二手转述,数字口径不一);对照CEPS/Open Future/CEPA/Science|Business批评 | EuroHPC/European Commission / Euronews / Science|Business / CEPA(二手) | 无
 - 2026-11-11 | IMF 10月《全球金融稳定报告》(2026-10-13,仅读搜索摘要/执行摘要片段与二手转述未读原文):AI估值回调列为突出风险,杠杆/循环融资/私募信贷为放大器,情景GDP数字三种口径互相矛盾(0.4%/1.22%/3.3→2.9);对照Jefferies Thill/Adrian演示稿/implicator评论,无具名学术批评 | IMF / Scottish Financial News / magica / implicator(二手) | 无
+- 2026-11-13 | IMF与OECD官员10-22警告AI可能拉大富国与穷国差距(超窗口放宽;原文抓取失败,仅读搜索摘要与Reuters转载,OECD 0.4–1.2个百分点等数字未核实);对照Acemoglu/Sundaram&Wesselbaum/AI Frontiers | IMF / OECD / Reuters(The Star、US News转载,二手) | 不适当技术(Acemoglu,轻度)
