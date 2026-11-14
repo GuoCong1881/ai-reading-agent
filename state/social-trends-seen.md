@@ -109,3 +109,4 @@
 - 2026-11-10 | 欧盟AI Gigafactories招标(2026-07-30发起,11-12截止;≥7座/每座≥10万芯片,公共资金约100亿欧元+私人约200亿,40亿欧元欧盟出资待MFF;未读招标原文,仅读搜索摘要与二手转述,数字口径不一);对照CEPS/Open Future/CEPA/Science|Business批评 | EuroHPC/European Commission / Euronews / Science|Business / CEPA(二手) | 无
 - 2026-11-11 | IMF 10月《全球金融稳定报告》(2026-10-13,仅读搜索摘要/执行摘要片段与二手转述未读原文):AI估值回调列为突出风险,杠杆/循环融资/私募信贷为放大器,情景GDP数字三种口径互相矛盾(0.4%/1.22%/3.3→2.9);对照Jefferies Thill/Adrian演示稿/implicator评论,无具名学术批评 | IMF / Scottish Financial News / magica / implicator(二手) | 无
 - 2026-11-13 | IMF与OECD官员10-22警告AI可能拉大富国与穷国差距(超窗口放宽;原文抓取失败,仅读搜索摘要与Reuters转载,OECD 0.4–1.2个百分点等数字未核实);对照Acemoglu/Sundaram&Wesselbaum/AI Frontiers | IMF / OECD / Reuters(The Star、US News转载,二手) | 不适当技术(Acemoglu,轻度)
+- 2026-11-14 | Barclays 10-22 Q3宣布年内裁员约5,000人(60%支持职能含"fewer developers")+英国财政大臣Healey 10-24 AI方案(£600m+,劳动者部分仅£10m/年研究+£23m研究所+£30m技能;略超窗口放宽;未读Barclays原文,仅读搜索摘要与二手转述);对照Unite与Fortune的AI归因质疑 | Barclays / gov.uk / City AM / Banking Dive(二手) | 无
