@@ -110,3 +110,4 @@
 - 2026-11-11 | IMF 10月《全球金融稳定报告》(2026-10-13,仅读搜索摘要/执行摘要片段与二手转述未读原文):AI估值回调列为突出风险,杠杆/循环融资/私募信贷为放大器,情景GDP数字三种口径互相矛盾(0.4%/1.22%/3.3→2.9);对照Jefferies Thill/Adrian演示稿/implicator评论,无具名学术批评 | IMF / Scottish Financial News / magica / implicator(二手) | 无
 - 2026-11-13 | IMF与OECD官员10-22警告AI可能拉大富国与穷国差距(超窗口放宽;原文抓取失败,仅读搜索摘要与Reuters转载,OECD 0.4–1.2个百分点等数字未核实);对照Acemoglu/Sundaram&Wesselbaum/AI Frontiers | IMF / OECD / Reuters(The Star、US News转载,二手) | 不适当技术(Acemoglu,轻度)
 - 2026-11-14 | Barclays 10-22 Q3宣布年内裁员约5,000人(60%支持职能含"fewer developers")+英国财政大臣Healey 10-24 AI方案(£600m+,劳动者部分仅£10m/年研究+£23m研究所+£30m技能;略超窗口放宽;未读Barclays原文,仅读搜索摘要与二手转述);对照Unite与Fortune的AI归因质疑 | Barclays / gov.uk / City AM / Banking Dive(二手) | 无
+- 2026-11-15 | Bessent 9-21/22宣布美中正式AI对话+事件热线、约两个月后深圳再会(9-23休战延至2027-01-10;超窗口放宽约8周;深圳会面未找到确认报道;未读官方文本,仅读路透转载/Toda/Atlantic Council/CFR等二手);对照Thibaut/McGuire/Taiyi Sun | Reuters(The Standard)/ Toda Peace Institute / Atlantic Council / CFR(二手) | 安全困境(Jervis)
