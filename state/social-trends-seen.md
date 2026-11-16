@@ -111,3 +111,4 @@
 - 2026-11-13 | IMF与OECD官员10-22警告AI可能拉大富国与穷国差距(超窗口放宽;原文抓取失败,仅读搜索摘要与Reuters转载,OECD 0.4–1.2个百分点等数字未核实);对照Acemoglu/Sundaram&Wesselbaum/AI Frontiers | IMF / OECD / Reuters(The Star、US News转载,二手) | 不适当技术(Acemoglu,轻度)
 - 2026-11-14 | Barclays 10-22 Q3宣布年内裁员约5,000人(60%支持职能含"fewer developers")+英国财政大臣Healey 10-24 AI方案(£600m+,劳动者部分仅£10m/年研究+£23m研究所+£30m技能;略超窗口放宽;未读Barclays原文,仅读搜索摘要与二手转述);对照Unite与Fortune的AI归因质疑 | Barclays / gov.uk / City AM / Banking Dive(二手) | 无
 - 2026-11-15 | Bessent 9-21/22宣布美中正式AI对话+事件热线、约两个月后深圳再会(9-23休战延至2027-01-10;超窗口放宽约8周;深圳会面未找到确认报道;未读官方文本,仅读路透转载/Toda/Atlantic Council/CFR等二手);对照Thibaut/McGuire/Taiyi Sun | Reuters(The Standard)/ Toda Peace Institute / Atlantic Council / CFR(二手) | 安全困境(Jervis)
+- 2026-11-16 | 加州11-03公投Prop 40(对>10亿美元净资产一次性5%财富税)被否决(约52.8%反对;反对方筹资>3.33亿美元、Brin>1亿),Boll/Saez/Zucman约1,000亿 vs Rauh/Jaros约300亿(净损失390亿)收入估算之争;AI关联仅为受影响者多为科技财富(间接);仅读KTVU/AP转载/NPR等二手,LAO PDF未读 | KTVU / AP(News5) / NPR(WUNC) / Fortune / SF Standard(二手) | 无
