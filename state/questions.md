@@ -82,6 +82,7 @@
   - 2026-07-20 | 纽约联储 Liberty Street Economics(Audoly, Guerin, Topa, 2026-05)用类似的"职业AI暴露度+招聘广告数据"方法,以synthetic difference-in-differences比较至2026Q1,发现"招聘数据中几乎没有明显证据能证明存在独立可归因于AI的劳动需求下降";且AI暴露职业与非暴露职业招聘量的分化趋势在ChatGPT发布(2022年底)前就已存在,难以把入门岗位招聘放缓简单归因于AI | NY Fed Liberty Street Economics
   - 待更新(本条尚无反例,仅有跨领域延伸证据)。
 - 跨领域延伸证据:
+  - 2026-11-17 | UCL Turney等系统综述(Adv Med Educ Pract 2026;4项/408名医学生):AI提升效率与基础知识,高阶临床推理混合,AI组提问10 vs 35;与BMC Med Educ仅RCT综述(摘要SMD 0.99/1.09,未读全文)矛盾,提示综述方法选择左右结论;均无撤AI延迟测试 | Dovepress / Springer(摘要)
   - 2026-11-10 | Nature Medicine "never-skilling"Perspective(概念)+Lancet GH内镜deskilling观察研究(19名资深医生,ADR 28.4%→22.4%,工作负荷混杂争议)+Anthropic编程RCT(52人,无AI测验50% vs 67%,调试差距最大):补上能力形成机制层证据;学员直接因果证据缺,需延迟测RCT与AI-free练习对照 | Nature Medicine/Lancet/Anthropic(均二手摘要)
   - 2026-07-25 | Anthropic发布Claude for Teachers后,中学数学教师Dylan Kane的担忧显示同一机制可能在教师职业内部重演——把课程标准拆解为可教单元,原本是新教师建立教学法内容知识的核心"边缘性练习任务",如果被AI默认完成,新教师可能失去这一学习入口;这是"合法边缘性参与被抽走"机制第一次从劳动力市场入门岗位延伸到教师专业发展本身 | GovTech
   - 2026-08-14 | 美国CS专业申请近20年首次全面下滑(NSC学籍数据:本科CS大类2025秋-8.1%/CS本身-11.2%,研究生-14.0%;Stanford经济学者Jacob Light独立测算课程注册-4.6%;CRA Taulbee调查新生CS学士-12.9%)首次提供"阶梯入口本身在萎缩"的供给侧证据,与07-20 PwC"入门岗位需求萎缩"的需求侧证据构成互补——如果CS专业是过去二十年最典型的"新手通往专家阶梯"载体,那么"年轻人不再报考这条阶梯"是阶梯功能失效的另一种极端表现;但数据提供者Jacob Light本人明确拒绝把降幅简单归因于AI,援引2000年互联网泡沫后CS申报比例5年内跌约70%的历史先例,提示这也可能是与AI无关的"boom-and-bust"周期重演,因果关系比07-20 PwC证据更不确定 | National Student Clearinghouse / Stanford IRISS(Jacob Light) / CRA Taulbee Survey / Fortune
