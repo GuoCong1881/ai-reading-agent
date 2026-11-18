@@ -113,3 +113,4 @@
 - 2026-11-15 | Bessent 9-21/22宣布美中正式AI对话+事件热线、约两个月后深圳再会(9-23休战延至2027-01-10;超窗口放宽约8周;深圳会面未找到确认报道;未读官方文本,仅读路透转载/Toda/Atlantic Council/CFR等二手);对照Thibaut/McGuire/Taiyi Sun | Reuters(The Standard)/ Toda Peace Institute / Atlantic Council / CFR(二手) | 安全困境(Jervis)
 - 2026-11-16 | 加州11-03公投Prop 40(对>10亿美元净资产一次性5%财富税)被否决(约52.8%反对;反对方筹资>3.33亿美元、Brin>1亿),Boll/Saez/Zucman约1,000亿 vs Rauh/Jaros约300亿(净损失390亿)收入估算之争;AI关联仅为受影响者多为科技财富(间接);仅读KTVU/AP转载/NPR等二手,LAO PDF未读 | KTVU / AP(News5) / NPR(WUNC) / Fortune / SF Standard(二手) | 无
 - 2026-11-17 | Humlum(芝大)&Vestergaard Brookings 2026-10-06(NBER 33777)丹麦行政数据:AI聊天机器人采用者及雇主收入/工时/雇佣无可测变化(排除>2%),入门岗位下降非采用企业驱动,仅职业流动有变动(超窗口约6周;仅读Brookings摘要未读NBER原文;丹麦外推局限;未找到具名直接反驳,仅与Stanford Canaries并置) | Brookings / NBER(二手摘要) | 无
+- 2026-11-18 | Fortune(11-16)综述:JOLTS 9月裁员160万/初请20万历史低位,Goldman称AI冲击多在下行期显现(最多9%替代),Stanford年轻人高暴露岗位低于反事实19%(描述性);未读Goldman/Stanford原文,仅读Fortune转述;对照Narayanan&Kapoor/Amodei | Fortune / Goldman Sachs / Stanford DEL(二手) | 无
