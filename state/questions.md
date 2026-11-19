@@ -26,6 +26,7 @@
 - 当前理解: 学校可能从知识传递机构转向社会化、共同体、评价认证、照护、公共讨论和公平保障的基础设施。
 - Evidence FOR:
   - 2026-07-27 | Digital Education Council《AI in Higher Education Global Survey 2026》(35国4.5万人):DEC领导层原话"采用已经普遍,但一致的实践还没有形成"——学校"采用AI"的速度远超"重新设计评价、建立可信指引"的速度,仅28%学生认为评价反映真实技能需求,仅29%认为教师有能力指导AI使用;提示学校作为"评价可信度中介"和"课程-职场翻译者"这两个传统功能正被采用速度反超 | Digital Education Council / EdTech Innovation Hub
+  - 2026-11-19 | Stanford教务长1,000万美元倡议资助约15院系重设计本科专业(仅读搜索摘要,官方页403):学校主动以"专业"为单位重构的资金化案例(Evidence FOR);无评估指标、重设计是加法还是减法未知;对照THE Belic&Maheshwari主张先有证据再整合。Need: 获批院系名单与方案、是否保留无AI训练、2029年后毕业生追踪 | Issue #241
 - Evidence AGAINST / Contradictions:
   - 2026-11-06 | Google宣布K-12学生账号AI/Search默认关闭、管理员opt-in,但Phillips称拒绝AI的学校将失去Search(Google随后澄清可单独开关,AI Overviews不可关;各方事实描述冲突,未读原文):学校"价值守门/保留无AI空间"的决定受供应商产品捆绑约束。Need: 实际opt-in比例、官方文档、欧洲学区反应 | CBS/TechCrunch/EdSource
   - 2026-10-12 | Frederick County(马里兰)教委10-07以6:1全面禁止pre-K-12学生用AI(几周前刚试点Gemini),选择"保护无AI学习空间"这一答案;与哈佛CDT报告警告"不信任型政策可能把学生使用推入暗处"并置形成张力(非直接交锋);单一学区政治决定,不是教育证据 | Fox5 DC / Harvard GSE
