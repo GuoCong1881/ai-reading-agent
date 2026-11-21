@@ -116,3 +116,4 @@
 - 2026-11-18 | Fortune(11-16)综述:JOLTS 9月裁员160万/初请20万历史低位,Goldman称AI冲击多在下行期显现(最多9%替代),Stanford年轻人高暴露岗位低于反事实19%(描述性);未读Goldman/Stanford原文,仅读Fortune转述;对照Narayanan&Kapoor/Amodei | Fortune / Goldman Sachs / Stanford DEL(二手) | 无
 - 2026-11-19 | 美联储Warsh 11-16旧金山联储召开"生产率与就业任务组"会议(Andreessen/Jones/Sharma牵头;讲稿三情景无预测,CNBC报道的"服务业China shock"类比未在讲稿摘要中核实;仅读官网讲稿摘要与CNBC/Axios,Warnock信PDF未读);对照Autor反对类比与利益冲突批评 | Federal Reserve / CNBC / Axios / Fortune(部分二手) | China shock(Autor-Dorn-Hanson,类比)
 - 2026-11-20 | AI数据中心是否推高美国居民电价:CEPR DP21854(VoxEU摘要,居民+13%/1SD,未读原文)vs ITIF Gaster 11-18反驳+Columbia CGEP 2026-06综述(主因电网投资与燃料);对照CAP | CEPR/VoxEU / ITIF / Columbia CGEP(部分二手) | 无
+- 2026-11-21 | Conference Board《AI and Workforce Planning》(2026-11-18;775名高管+35访谈):11%全企业纳入AI影响规划、39%预计小幅减员、8%大幅减员、5%增加;仅读新闻稿与HR Reporter转述未读全文,样本方法未披露;对照Bloom&Davis NBER w34836/Cappelli | Conference Board / PR Newswire / HR Reporter(二手) | 无
