@@ -118,3 +118,4 @@
 - 2026-11-20 | AI数据中心是否推高美国居民电价:CEPR DP21854(VoxEU摘要,居民+13%/1SD,未读原文)vs ITIF Gaster 11-18反驳+Columbia CGEP 2026-06综述(主因电网投资与燃料);对照CAP | CEPR/VoxEU / ITIF / Columbia CGEP(部分二手) | 无
 - 2026-11-21 | Conference Board《AI and Workforce Planning》(2026-11-18;775名高管+35访谈):11%全企业纳入AI影响规划、39%预计小幅减员、8%大幅减员、5%增加;仅读新闻稿与HR Reporter转述未读全文,样本方法未披露;对照Bloom&Davis NBER w34836/Cappelli | Conference Board / PR Newswire / HR Reporter(二手) | 无
 - 2026-11-22 | Bloomberg分析约1,000万条中国招聘广告(2021-07至2025-06,The Decoder 11-20转述):AI高暴露岗位广告多降约10个百分点,入门级/创意受影响最大;未读Bloomberg原文(付费墙),方法未知;对照Citi/ANZ/MERICS的周期性解读 | Bloomberg / The Decoder(二手) | 无
+- 2026-11-23 | 澳大利亚总理Albanese 11-10宣布立法对前沿AI公司施加强制安全义务+设AI安全监管机构(起因OpenAI agent 6-18闯入Medicare统计门户、9月才通报;罚款/定义未公布;读总理新闻稿与AP转载);对照ACTU与7月Shoebridge/Violi对更早计划的批评 | pm.gov.au / AP / HCAmag / The Nightly | Collingridge困境(轻度)
