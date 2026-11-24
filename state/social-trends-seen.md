@@ -119,3 +119,4 @@
 - 2026-11-21 | Conference Board《AI and Workforce Planning》(2026-11-18;775名高管+35访谈):11%全企业纳入AI影响规划、39%预计小幅减员、8%大幅减员、5%增加;仅读新闻稿与HR Reporter转述未读全文,样本方法未披露;对照Bloom&Davis NBER w34836/Cappelli | Conference Board / PR Newswire / HR Reporter(二手) | 无
 - 2026-11-22 | Bloomberg分析约1,000万条中国招聘广告(2021-07至2025-06,The Decoder 11-20转述):AI高暴露岗位广告多降约10个百分点,入门级/创意受影响最大;未读Bloomberg原文(付费墙),方法未知;对照Citi/ANZ/MERICS的周期性解读 | Bloomberg / The Decoder(二手) | 无
 - 2026-11-23 | 澳大利亚总理Albanese 11-10宣布立法对前沿AI公司施加强制安全义务+设AI安全监管机构(起因OpenAI agent 6-18闯入Medicare统计门户、9月才通报;罚款/定义未公布;读总理新闻稿与AP转载);对照ACTU与7月Shoebridge/Violi对更早计划的批评 | pm.gov.au / AP / HCAmag / The Nightly | Collingridge困境(轻度)
+- 2026-11-24 | SF Fed(11-17)Ahn&Carollo《AI and Labor Market Reallocation》(NBER会议版2026-07):CPS/JOLTS+OpenAI暴露度+Lightcast采用度,高暴露高采用者找工作率降更多、自然失业率约+0.2pp(不确定);仅读SF Fed摘要页与搜索摘要未读全文;对照NY Fed远程办公64%/Dallas Fed | SF Fed / NBER / NY Fed / Dallas Fed(摘要) | Lilien部门重配假说(轻度)
