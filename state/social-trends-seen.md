@@ -120,3 +120,4 @@
 - 2026-11-22 | Bloomberg分析约1,000万条中国招聘广告(2021-07至2025-06,The Decoder 11-20转述):AI高暴露岗位广告多降约10个百分点,入门级/创意受影响最大;未读Bloomberg原文(付费墙),方法未知;对照Citi/ANZ/MERICS的周期性解读 | Bloomberg / The Decoder(二手) | 无
 - 2026-11-23 | 澳大利亚总理Albanese 11-10宣布立法对前沿AI公司施加强制安全义务+设AI安全监管机构(起因OpenAI agent 6-18闯入Medicare统计门户、9月才通报;罚款/定义未公布;读总理新闻稿与AP转载);对照ACTU与7月Shoebridge/Violi对更早计划的批评 | pm.gov.au / AP / HCAmag / The Nightly | Collingridge困境(轻度)
 - 2026-11-24 | SF Fed(11-17)Ahn&Carollo《AI and Labor Market Reallocation》(NBER会议版2026-07):CPS/JOLTS+OpenAI暴露度+Lightcast采用度,高暴露高采用者找工作率降更多、自然失业率约+0.2pp(不确定);仅读SF Fed摘要页与搜索摘要未读全文;对照NY Fed远程办公64%/Dallas Fed | SF Fed / NBER / NY Fed / Dallas Fed(摘要) | Lilien部门重配假说(轻度)
+- 2026-11-25 | 英格兰银行11月《货币政策报告》(11-05):自建AI活动代理指标(SIC 58/62/63)估算AI相关活动约占2026年初以来GDP增长不足1/5,多为上游投资/供给而非采用;DMP企业自报生产率+0.5%/3年、就业近零、预期未来+0.9pp/年;读网页版原文,PDF加密未读图表;对照The Register等,无具名学术批评 | Bank of England / The Register / ppc.land | 无(Solow悖论,轻度提及)
