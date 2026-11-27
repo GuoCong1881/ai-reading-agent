@@ -122,3 +122,4 @@
 - 2026-11-24 | SF Fed(11-17)Ahn&Carollo《AI and Labor Market Reallocation》(NBER会议版2026-07):CPS/JOLTS+OpenAI暴露度+Lightcast采用度,高暴露高采用者找工作率降更多、自然失业率约+0.2pp(不确定);仅读SF Fed摘要页与搜索摘要未读全文;对照NY Fed远程办公64%/Dallas Fed | SF Fed / NBER / NY Fed / Dallas Fed(摘要) | Lilien部门重配假说(轻度)
 - 2026-11-25 | 英格兰银行11月《货币政策报告》(11-05):自建AI活动代理指标(SIC 58/62/63)估算AI相关活动约占2026年初以来GDP增长不足1/5,多为上游投资/供给而非采用;DMP企业自报生产率+0.5%/3年、就业近零、预期未来+0.9pp/年;读网页版原文,PDF加密未读图表;对照The Register等,无具名学术批评 | Bank of England / The Register / ppc.land | 无(Solow悖论,轻度提及)
 - 2026-11-26 | Vanguard(Schickling,2026-11-05)称AI非应届毕业生就业困难主因(约800职业三档暴露度+CPS 22-26岁vs外推基准;AI受益型企业净招聘更多);仅读网页正文未读图表;对照Stanford Canaries 2026-08修订19%缺口/Brookings Humlum | Vanguard / Stanford DEL / Brookings(网页摘要) | 无
+- 2026-11-27 | J.P. Morgan Wealth Management情景:AI五年约替代2,400万知识型岗位(假设乘积,非预测),冲击更可能是"没发生的招聘";未找到原报告,仅读Open Magazine转述;对照JPM Private Bank 2026-04 GPU算账与Muro | J.P. Morgan / Open Magazine(二手) | 无
